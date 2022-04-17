@@ -1,3 +1,3 @@
 # docs-automation
 
-Google Sheet 
+code snippet to create documents everytime a row is added on Google Sheet.
